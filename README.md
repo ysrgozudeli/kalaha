@@ -4,7 +4,7 @@
 
 In this section, we outline the key assumptions made in the development of the online Kalaha game system:
 
-1. **User Limitation:**  The system accommodates multiple users; however, for the purpose of this document, it is
+1. **User Limitation:**  The system accommodates multiple users; however, for the purpose of simplicity, it is
    restricted to only two users at the data layer, referred to as User-1 and User-2. In addition, GameService assumes
    that the users are authenticated and authorized by some resources, if needed.
 
